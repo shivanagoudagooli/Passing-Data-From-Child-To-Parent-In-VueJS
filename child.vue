@@ -1,6 +1,6 @@
 <template>
   <div>
-  
+    <h1>this is child component</h1>
     Enter UserName : <input type="text" value="" id="user"/> <br>
     <br><br>
     Enter Password : <input type="password" value="" name="password"  id="psw"/><br>
